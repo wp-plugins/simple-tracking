@@ -1,0 +1,15 @@
+#toplevel_page_simpleTracking div.wp-menu-image {
+background: transparent url(trackingHover.png) no-repeat 0 0;
+}
+
+#toplevel_page_simpleTracking:hover div.wp-menu-image, #toplevel_page_simpleTracking.current div.wp-menu-image {
+background: transparent url(trackingHover.png) no-repeat scroll 0 -28px;
+}
+
+#icon-simpleTracking {
+background:url(icon32.png) no-repeat transparent;
+}
+
+#icon-simpleTracking:hover {
+background-position: 0 -36px;
+}
