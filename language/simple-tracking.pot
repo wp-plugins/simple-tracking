@@ -1,0 +1,72 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <RENNER@VIONIC.DE>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/simple-tracking\n"
+"POT-Creation-Date: 2010-07-22 10:55+0000\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <RENNER@VIONIC.DE>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: simpleTracking.php:29
+msgid "Simple Tracking"
+msgstr ""
+
+#: simpleTracking.php:29
+msgid "Titel Trackingcode 1"
+msgstr ""
+
+#: simpleTracking.php:29
+msgid "Code 1"
+msgstr ""
+
+#: simpleTracking.php:29
+msgid ""
+"Geben Sie im Editor auf einer Seite oder einem Artikel folgenden Shortcode "
+"ein: <strong>[[[simpleTracking_shortcut1]]]</strong>.</p><p style=\"margin-"
+"left: 10px;\">Alternativ klicken Sie auf der Seite oder dem Artikel unter "
+"dem Editor auf den entsprechenden Einf&uuml;ge-Button des Plugins."
+msgstr ""
+
+#: simpleTracking.php:29
+msgid "Titel Trackingcode 2"
+msgstr ""
+
+#: simpleTracking.php:29
+msgid "Code 2"
+msgstr ""
+
+#: simpleTracking.php:29
+msgid ""
+"Geben Sie im Editor auf einer Seite oder einem Artikel folgenden Shortcode "
+"ein: <strong>[[[simpleTracking_shortcut2]]]</strong>.</p><p style=\"margin-"
+"left: 10px;\">Alternativ klicken Sie auf der Seite oder dem Artikel unter "
+"dem Editor auf den entsprechenden Einf&uuml;ge-Button des Plugins."
+msgstr ""
+
+#: simpleTracking.php:29
+msgid "Titel Trackingcode 3"
+msgstr ""
+
+#: simpleTracking.php:29
+msgid "Code 3"
+msgstr ""
+
+#: simpleTracking.php:29
+msgid ""
+"Geben Sie im Editor auf einer Seite oder einem Artikel folgenden Shortcode "
+"ein: <strong>[[[simpleTracking_shortcut3]]]</strong>.</p><p style=\"margin-"
+"left: 10px;\">Alternativ klicken Sie auf der Seite oder dem Artikel unter "
+"dem Editor auf den entsprechenden Einf&uuml;ge-Button des Plugins."
+msgstr ""
+
+#: simpleTracking.php:29
+msgid "Speichern &raquo;"
+msgstr ""
