@@ -22,6 +22,10 @@ Every Time a User hits the page the script runs through.
 
 You're done!
 
+== Screenshots ==
+
+1. **Administrationwindow** - There you see the adminpanel of Simple Tracking. You can insert 3 trackingcodes. That easy :-)
+
 == Changelog ==
 
 = 0.1 =
