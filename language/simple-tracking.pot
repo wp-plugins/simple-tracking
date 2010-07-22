@@ -1,72 +1,130 @@
-# Translation of the WordPress plugin   by .
-# Copyright (C) 2010 
-# This file is distributed under the same license as the  package.
-# FIRST AUTHOR <RENNER@VIONIC.DE>, 2010.
+# Translation of the WordPress plugin Simple Tracking 0.1 by Fabian Renner.
+# Copyright (C) 2010 Fabian Renner
+# This file is distributed under the same license as the Simple Tracking package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version:  \n"
+"Project-Id-Version: Simple Tracking 0.1\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/simple-tracking\n"
-"POT-Creation-Date: 2010-07-22 10:55+0000\n"
+"POT-Creation-Date: 2010-07-22 13:03+0000\n"
 "PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <RENNER@VIONIC.DE>\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: simpleTracking.php:29
-msgid "Simple Tracking"
+#: simple-tracking.php:51
+msgid "Perfect updated!"
 msgstr ""
 
-#: simpleTracking.php:29
-msgid "Titel Trackingcode 1"
+#: simple-tracking.php:51
+msgid "Here you can insert 3 different trackingcodes."
 msgstr ""
 
-#: simpleTracking.php:29
+#: simple-tracking.php:51
+msgid ""
+"Please insert a title for every conversiontrackingcode. Its only for your "
+"own."
+msgstr ""
+
+#: simple-tracking.php:51
+msgid "Title trackingcode 1"
+msgstr ""
+
+#: simple-tracking.php:51
 msgid "Code 1"
 msgstr ""
 
-#: simpleTracking.php:29
+#: simple-tracking.php:51
 msgid ""
-"Geben Sie im Editor auf einer Seite oder einem Artikel folgenden Shortcode "
-"ein: <strong>[[[simpleTracking_shortcut1]]]</strong>.</p><p style=\"margin-"
-"left: 10px;\">Alternativ klicken Sie auf der Seite oder dem Artikel unter "
-"dem Editor auf den entsprechenden Einf&uuml;ge-Button des Plugins."
+"Please type the following shortcode in the editor of a page or post:  "
+"<strong>[[[simpleTracking_shortcut1]]]</strong>.</p><p style=\"margin-left: "
+"10px;\">Alternatively you can push the specific button in the plugin-window "
+"under the page- or posteditor on every post or page."
 msgstr ""
 
-#: simpleTracking.php:29
-msgid "Titel Trackingcode 2"
+#: simple-tracking.php:51
+msgid "Title trackingcode 2"
 msgstr ""
 
-#: simpleTracking.php:29
+#: simple-tracking.php:51
 msgid "Code 2"
 msgstr ""
 
-#: simpleTracking.php:29
+#: simple-tracking.php:51
 msgid ""
-"Geben Sie im Editor auf einer Seite oder einem Artikel folgenden Shortcode "
-"ein: <strong>[[[simpleTracking_shortcut2]]]</strong>.</p><p style=\"margin-"
-"left: 10px;\">Alternativ klicken Sie auf der Seite oder dem Artikel unter "
-"dem Editor auf den entsprechenden Einf&uuml;ge-Button des Plugins."
+"Please type the following shortcode in the editor of a page or post:  "
+"<strong>[[[simpleTracking_shortcut2]]]</strong>.</p><p style=\"margin-left: "
+"10px;\">Alternatively you can push the specific button in the plugin-window "
+"under the page- or posteditor on every post or page."
 msgstr ""
 
-#: simpleTracking.php:29
-msgid "Titel Trackingcode 3"
+#: simple-tracking.php:51
+msgid "Title trackingcode 3"
 msgstr ""
 
-#: simpleTracking.php:29
+#: simple-tracking.php:51
 msgid "Code 3"
 msgstr ""
 
-#: simpleTracking.php:29
+#: simple-tracking.php:51
 msgid ""
-"Geben Sie im Editor auf einer Seite oder einem Artikel folgenden Shortcode "
-"ein: <strong>[[[simpleTracking_shortcut3]]]</strong>.</p><p style=\"margin-"
-"left: 10px;\">Alternativ klicken Sie auf der Seite oder dem Artikel unter "
-"dem Editor auf den entsprechenden Einf&uuml;ge-Button des Plugins."
+"Please type the following shortcode in the editor of a page or post:  "
+"<strong>[[[simpleTracking_shortcut3]]]</strong>.</p><p style=\"margin-left: "
+"10px;\">Alternatively you can push the specific button in the plugin-window "
+"under the page- or posteditor on every post or page."
 msgstr ""
 
-#: simpleTracking.php:29
-msgid "Speichern &raquo;"
+#: simple-tracking.php:51
+msgid "Save &raquo;"
+msgstr ""
+
+#: simple-tracking.php:51
+msgid ""
+"Here you can simply insert your specific trackingcode shortcut per "
+"mouseclick."
+msgstr ""
+
+#: simple-tracking.php:51
+msgid ""
+"In the frontend the trackingcode is then running each time a visitor visites "
+"the post or page. The Shortcut is then replaced by the script."
+msgstr ""
+
+#: simple-tracking.php:51
+msgid "Insert "
+msgstr ""
+
+#: simple-tracking.php:51
+msgid "Title 1"
+msgstr ""
+
+#: simple-tracking.php:51
+msgid "Title 2"
+msgstr ""
+
+#: simple-tracking.php:51
+msgid "Title 3"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Simple Tracking"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A simple Conversion-Tracking-Plugin for Wordpress, which you can easiely "
+"insert into a post or page. Every time a visitor visits this post or page "
+"the conversion is beeing made."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Fabian Renner"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.vionic.de"
 msgstr ""

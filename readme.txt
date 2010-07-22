@@ -4,7 +4,7 @@ Donate link: http://www.vionic.de
 Tags: conversion, tracking, conversiontracking, google, yahoo
 Requires at least: 2.1
 Tested up to: 2.9.1
-Stable tag: 0.1
+Stable tag: 0.2
 
 With Simple Tracking you can add your individual Trackingcode (javascript) to any page or post in your Blog.
 
@@ -30,3 +30,6 @@ You're done!
 
 = 0.1 =
 * First stable version, no errors known
+
+= 0.2 =
+* Internationalisation German/English
