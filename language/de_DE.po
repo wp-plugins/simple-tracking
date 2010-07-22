@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Simple Tracking 0.1\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/simple-tracking\n"
 "POT-Creation-Date: 2010-07-22 13:03+0000\n"
-"PO-Revision-Date: 2010-07-22 15:08+0100\n"
+"PO-Revision-Date: 2010-07-22 16:01+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -83,15 +83,15 @@ msgstr "Einf&uuml;gen"
 
 #: simple-tracking.php:51
 msgid "Title 1"
-msgstr "Title 1"
+msgstr "Titel 1"
 
 #: simple-tracking.php:51
 msgid "Title 2"
-msgstr "Title 2"
+msgstr "Titel 2"
 
 #: simple-tracking.php:51
 msgid "Title 3"
-msgstr "Title 3"
+msgstr "Titel 3"
 
 #. Plugin Name of the plugin/theme
 msgid "Simple Tracking"

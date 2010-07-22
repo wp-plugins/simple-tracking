@@ -10,7 +10,7 @@
  * Description: A simple Conversion-Tracking-Plugin for Wordpress, which you can easiely insert into a post or page. Every time a visitor visits this post or page the conversion is beeing made.
  * Version: 0.2
  * Author: Fabian Renner
- * Author URI: http://www.vionic.de
+ * Author URI: http://www.vionic.de  * Text Domain: simple-tracking
 */
 
 /**
